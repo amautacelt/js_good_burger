@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,12 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Mambo Sauce Burger",
+      "description": "DC Flava",
+      "image": "https://cdn.vox-cdn.com/thumbor/FlJbejKjk2wPNtYRZ0DH5SStaoE=/3x0:1294x968/1820x1213/filters:focal(3x0:1294x968):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/39873508/photo__1_.0.0.JPG",
+      "id": 12
     }
   ]
 }
